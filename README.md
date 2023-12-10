@@ -30,10 +30,10 @@ The word cloud represents the frequency of each name by the size of the correspo
 ## Average % difference
 Average percentage difference of retail prices with respect to secondary market prices across the years have  shown an increasing trend and confirm that buying and selling lego sets are lucrative especially if sold later.
 # SUMMARY
-## Release Strategy: LEGO's strategic release of new sets, often tied to popular themes or events, impacts the supply and demand dynamics in both primary and secondary markets.
-## Price-to-Parts Ratio: The varying price-to-parts ratios across different themes and time intervals suggest a correlation with special features, popularity, or rarity of the sets.
-## Secondary Market Trends: The secondary market prices of LEGO sets display certain trends, including a preference for specific themes and a clear appreciation in value over time.
-## Investment Potential: The consistently increasing average percentage difference between retail and secondary market prices confirms the lucrative potential of LEGO sets as an unconventional investment avenue.
+- Release Strategy: LEGO's strategic release of new sets, often tied to popular themes or events, impacts the supply and demand dynamics in both primary and secondary markets.
+- Price-to-Parts Ratio: The varying price-to-parts ratios across different themes and time intervals suggest a correlation with special features, popularity, or rarity of the sets.
+- Secondary Market Trends: The secondary market prices of LEGO sets display certain trends, including a preference for specific themes and a clear appreciation in value over time.
+- Investment Potential: The consistently increasing average percentage difference between retail and secondary market prices confirms the lucrative potential of LEGO sets as an unconventional investment avenue.
 
 
 
